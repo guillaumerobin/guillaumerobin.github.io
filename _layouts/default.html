@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% comment %}{% include header.html %}{% endcomment %}
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-3">
+            <div class="list-group" id="articles">
+              {% for post in site.posts %}
+                  <a class="list-group-item post-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }} <span class="text-muted">{{ post.date | date: "%d-%m-%Y" }}</span>
+                  </a>
+              {% endfor %}
+            </div>
+            <p class="rss-subscribe">
+              <span class="text-muted">
+                S'abonner au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a>.
+              </span>
+            </p>
+            <p class="text-muted small">
+              Je suis informaticien bénévole dans le Mouvement 6ème République.
+              J'ai proposé mon aide au M6R lors de son lancement
+              et participé à la mise en place de Nous le Peuple.
+            </p>
+        </div>
+        <div class="col-md-8" id="content">
+          {{ content }}
+        </div>
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

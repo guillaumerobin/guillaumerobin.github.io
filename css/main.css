@@ -1,0 +1,21 @@
+#articles {
+    margin-top: 60px;
+}
+
+#articles > .active > .text-muted {
+    color: #DDDDDD;
+}
+
+.post-content img.pull-left {
+    float: left;
+    margin: 2px 8px 2px 0px;
+    max-width: 35%;
+    max-height: 500px;
+}
+
+.post-content img.pull-right {
+    float: right;
+    margin: 1px 0px 2px 8px;
+    max-width: 35%;
+    max-height: 500px;
+}

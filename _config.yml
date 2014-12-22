@@ -1,0 +1,10 @@
+# Site settings
+title: Guillaume Robin
+description: > # this means to ignore newlines until "baseurl:"
+  Le blog de Guillaume Robin, bénévole au comité technique du Mouvement
+  pour la 6ème République.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://guillaumerobin.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
