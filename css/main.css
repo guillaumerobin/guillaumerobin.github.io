@@ -5,7 +5,13 @@ html {
 
 body {
     padding-top: 10px;
-    margin-bottom: 90px;
+    margin-bottom: 140px;
+}
+
+@media (min-width: 992px) {
+    body {
+        margin-bottom: 100px;
+    }
 }
 
 #articles {
