@@ -62,8 +62,8 @@ soit de se rassurer. Il nous faut rassembler de nouvelles personnes.
 <img alt="Grafiti M6R : Ni Hollande, ni Sarko, ni Le Pen, m6r.fr" src="/images/2014-12-22/img2.jpg" class="pull-left">
 
 Les articles postés ces jours-ci entraînent moins de débats. Ils commencent à
-concerner des sujets très spécifiques. D'autres thèmes se répètent. Déjà
-évoqués les jours précédents, mais disparus de la page d'accueil, des
+concerner des sujets très spécifiques. D'autres thèmes se répètent, déjà
+évoqués les jours précédents. Mais disparus de la page d'accueil, des
 personnes postent à nouveau des messages similaires. C'est le cas par exemple
 pour la prise en compte du vote blanc, comme le montre [une recherche sur ce
 terme](https://www.m6r.fr/nouslepeuple/search.php?search=vote+blanc&order=upvot
@@ -87,7 +87,7 @@ citoyens](https://www.m6r.fr/visuels-citoyens/) est pour moi exemplaire. Lors
 de la [manif en ligne](https://www.m6r.fr/2014/11/manif-en-ligne/) organisée
 le 12 novembre dernier, beaucoup de gens ont partagé des images appelant à
 signer pour la 6ème République. La diversité de la production graphique montre
-à quel point notre mouvement rassemble et repose sur la contribution de tout
+à quel point notre mouvement fédère et repose sur la contribution de tout
 le collectif. Certains de ces visuels illustrent ce post. Je ne sais pas qui
 les a produits, mais je les trouve très réussis.[^4]
 
@@ -111,10 +111,10 @@ notre mieux.
 
 Cela nécessite des compétences techniques. Le plus possible, il faut que nous
 mettions nous même en place nos outils. Nous investissons bien sûr les espaces
-existants. Nous y donnons à voir le collectif. C'est ce qui nous permettra
-d'atteindre les 100 000 signatures. Mais pour ce qui concerne l'auto-
-organisation du mouvement,  nous sommes hébergés sur nos propres serveurs, et ne
-dépendons pas d'une plate-forme tierce.
+existants sur les réseaux. Nous y donnons à voir le collectif. C'est ce qui nous
+permettra d'atteindre les 100 000 signatures. Mais pour ce qui concerne
+l'auto-organisation du mouvement,  nous sommes hébergés sur nos propres
+serveurs, et ne dépendons pas d'une plate-forme tierce.
 
 ## Améliorer la plate-forme
 
