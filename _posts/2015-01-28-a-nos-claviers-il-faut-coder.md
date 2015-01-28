@@ -12,9 +12,9 @@ excerpt:
     CMS Pligg.
 ---
 
-*Vous pouvez envoyer un mail à [dev@m6r.fr](mailto:dev@m6r.fr) ou rejoindre
-directement la [liste mail publique](http://listes.m6r.fr/wws/info/nouslepeuple-
-devel).*
+*Après avoir lu cet article, vous pouvez envoyer un mail à
+[dev@m6r.fr](mailto:dev@m6r.fr) ou rejoindre directement la [liste mail
+publique](http://listes.m6r.fr/wws/info/nouslepeuple- devel).*
 
 -----------
 
