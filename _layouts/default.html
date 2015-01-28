@@ -10,7 +10,7 @@
     <div class="container-fluid" id="body">
       <div class="row">
         <div class="col-md-3">
-            <div class="list-group" id="articles">
+            <div class="list-group posts-list">
               {% for post in site.posts %}
                   <a class="list-group-item post-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">
                     {{ post.title }} <span class="text-muted">{{ post.date | date: "%d-%m-%Y" }}</span>
