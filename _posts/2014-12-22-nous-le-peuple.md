@@ -5,9 +5,9 @@ date:   2014-12-22
 categories: m6r
 tag: index
 excerpt: "Nous le peuple a été lancé il y a presque deux semaines. Depuis le
-10 décembre, 6372 personnes se sont inscrites sur le site.1 À titre de
+10 décembre, 6372 personnes se sont inscrites sur le site. À titre de
 comparaison, la salle de discussion du mouvement espagnol Podemos compte 8317
-membres sur Reddit.2 Le site a connu un beau lancement. Il y a eu plusieurs
+membres sur Reddit. Le site a connu un beau lancement. Il y a eu plusieurs
 centaines d’inscrits dès la première heure. Le nombre n’a cependant
 véritablement explosé que le lendemain. Il a fallu l’envoi d’un
 mail à toutes les personnes qui avaient déjà signé l’appel pour une assemblée
