@@ -12,6 +12,12 @@ excerpt:
     CMS Pligg.
 ---
 
+*Vous pouvez envoyer un mail à [dev@m6r.fr](mailto:dev@m6r.fr) ou rejoindre
+directement la [liste mail publique](http://listes.m6r.fr/wws/info/nouslepeuple-
+devel).*
+
+-----------
+
 <a href="https://www.m6r.fr/2014/09/je-signe/"><img alt="Je signe pour la 6ème République" src="/images/2015-01-28/partage.png" class="pull-right" /></a>
 
 Comme je l'ai évoqué dans mon post du mois dernier, je fais ici une présentation
