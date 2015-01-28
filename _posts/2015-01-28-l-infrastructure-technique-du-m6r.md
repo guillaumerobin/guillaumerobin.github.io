@@ -47,11 +47,11 @@ ne s'affiche sur votre navigateur.
 ### Requête
 
 **Une requête** est un message de quelques lignes qui donne les informations sur
-ce que vous souhaitez voir. Traduite en français, une requête pourrait s'écrire
-: *Bonjour m6r.fr, je suis Guillaume (mon identifiant secret est ---). Je
+ce que vous souhaitez voir. Traduite en français, une requête pourrait s'écrire :
+*Bonjour m6r.fr, je suis Guillaume (mon identifiant secret est ---). Je
 souhaite voir la liste des posts de la catégorie << Partage des richesses >>,
-classés par nombre de commentaires.*[^page] En réalité la requête ressemble à ça
-: <a data-toggle="collapse" href="#20150127HTTPRequest" aria-expanded="false"
+classés par nombre de commentaires.*[^page] En réalité la requête ressemble à ça :
+<a data-toggle="collapse" href="#20150127HTTPRequest" aria-expanded="false"
 aria-controls="20150127HTTPRequest">(cliquez pour dérouler)</a>. C'est
 évidemment incompréhensible.[^http]
 
