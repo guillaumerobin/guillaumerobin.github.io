@@ -106,7 +106,7 @@ plateforme. N'importe qui peut proposer une pull request. Lisez simplement [les
 règles à
 suivre](https://github.com/m6r/nouslepeuple/blob/master/CONTRIBUTING.md) pour
 contribuer.[^github] Je propose que la résolution des issues sur Github et la
-liste des petites améliorations quotidienne soit visibles quelque part sur le
+liste des petites améliorations quotidiennes soient visibles quelque part sur le
 site. Il est important que le mouvement se montre avançant.
 
 ### Maintenabilité
