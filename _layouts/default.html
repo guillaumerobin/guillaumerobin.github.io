@@ -17,17 +17,34 @@
                   </a>
               {% endfor %}
             </div>
-            <p class="rss-subscribe">
-              <span class="text-muted">
-                S'abonner au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a>.
-              </span>
-            </p>
             <p class="text-muted small">
               Je suis informaticien bénévole dans le Mouvement 6ème République.
               J'ai proposé mon aide au M6R lors de son lancement
               et participé à la mise en place de Nous le Peuple.
             </p>
-            <a href="https://twitter.com/GuilRobin">@GuilRobin</a>
+            <p class="text-muted">
+              S'abonner au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a>.
+            </p>
+            <p class="text-muted">
+              Twitter : <a href="https://twitter.com/GuilRobin">@GuilRobin</a>
+            </p>
+            <hr />
+            <!-- Begin MailChimp Signup Form -->
+            <form action="//github.us10.list-manage.com/subscribe/post?u=d691cce18d172ccdc1fe91388&amp;id=edaa6c44dc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div class="form-group">
+                <label for="mce-EMAIL">Etre informé des nouveaux articles :</label>
+                <input class="form-control required email" type="email" name="EMAIL" id="mce-EMAIL" placeholder="Adresse email">
+              </div>
+              <div id="mce-responses" class="clear">
+                <div class="alert alert-danger" id="mce-error-response" style="display:none"></div>
+                <div class="alert alert-success" id="mce-success-response" style="display:none"></div>
+              </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;"><input type="text" name="b_d691cce18d172ccdc1fe91388_edaa6c44dc" tabindex="-1" value=""></div>
+              <input type="submit" value="S'inscrire" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary">
+            </form>
+            <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+            <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+            <!--End mc_embed_signup-->
         </div>
         <div class="col-md-8" id="content">
           {{ content }}
