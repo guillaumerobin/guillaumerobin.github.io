@@ -10,6 +10,7 @@
     <div class="container-fluid" id="body">
       <div class="row">
         <div class="col-md-3">
+            <h1 id="name">Guillaume Robin</h1>
             <div class="list-group posts-list">
               {% for post in site.posts %}
                   <a class="list-group-item post-link{% if page.url == post.url %} active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">

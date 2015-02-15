@@ -33,9 +33,9 @@ body {
 }
 
 
-
-.posts-list {
-    margin-top: 60px;
+h1#name {
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 
 .posts-list > .active > .text-muted {
