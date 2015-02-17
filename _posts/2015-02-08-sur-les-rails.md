@@ -67,9 +67,9 @@ pour tout le monde le lundi suivant.
 
 Exceptionnellement, en cas de bug majeur à réparer urgemment, il est toujours
 possible de ramener le serveur de test à la version utilisée actuellement sur le
-site. Il faut alors travailler la correction du bug sur le serveur de test, et
-la mettre immédiatement en route pour tous, avant de revenir au processus
-normal.
+site. Il faut alors travailler la correction du bug sur le serveur de test. Une
+fois prête, on peut la mettre immédiatement en route, avant de revenir au
+processus normal de fonctionnement.
 
 Il y a plusieurs avantages à cela. Cela nous permet de nous fixer des horizons
 courts, avec des petits objectifs raisonnables. Nous avons ensuite le week-end
@@ -77,6 +77,6 @@ pour découvrir un bug majeur dans notre travail. Enfin nous pouvons annoncer su
 Nous le Peuple les modifications de la semaine.
 
 
-[^1]: L'élection de [l’assemblée représentative](https://www.m6r.fr/2015/02/designation-dune-assemblee-representative-du-m6r/) ne commence quand dans deux semaines, une éternité !
+[^1]: L'élection de [l’assemblée représentative](https://www.m6r.fr/2015/02/designation-dune-assemblee-representative-du-m6r/) ne commence que dans deux semaines, une éternité !
 [^2]: Pour ma part, ayant créé le dépôt, j'ai la possibilité technique de faire des modifications directement. Je m'obligerai quand même des requêtes de fusion afin que tout le monde soit sur un  pied d'égalité.
 
