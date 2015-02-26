@@ -18,16 +18,17 @@ derniers jours. Le processus a même intéressé quelques journalistes, qui ont
 demandé des informations sur son déroulement. Il faut dire que c'est
 radicalement nouveau. Les candidatures sont ouvertes à toutes et tous. Tout le
 monde pourra voter. Je crois que personne ne réalise encore de ce que nous
-sommes entrain d'accomplir.
+sommes en train d'accomplir.
 
 <img alt="Votez !" src="/images/2015-02-25/votez.png" class="pull-right img-zoom">
 
 Si nous réunissons à nous réunir rapidement, nous aurons déjà franchi une étape.
-L'assemblée devra se mettre au travail dés que possible. Nous le Peuple a un
+L'assemblée devra se mettre au travail dès que possible. Nous le Peuple a un
 objectif que nous partageons tous : rendre majoritaire l'idée de 6ème République
 dans notre pays. Il ne s'agit pas d'ajouter un nombre au compteur.
 C'est une manière de changer radicalement le système, auquel plus personne ne
-croit. Voici pour rappel le texte signé par presque 80 000 personnes :
+croit. Voici pour rappel le texte signé par presque 80 000 personnes
+(sur [cette page](https://www.m6r.fr/je-signe/)) :
 
 > <<Je demande l’élection d’une assemblée constituante qui fonde avec les citoyens
 > la 6e République. Une République débarrassée de la monarchie présidentielle et
@@ -41,7 +42,7 @@ visuels proposées ces derniers mois.
 
 Surtout, il est important que les signataires se rencontrent ailleurs que sur
 Nous le Peuple, c'est-à-dire puissent échanger de vive voix. L'outil
-d'organisation de réunion locale est en retard, le calendrier étant été bousculé
+d'organisation de réunion locale est en retard, le calendrier ayant été bousculé
 par le vote. Une solution de secours, provisoire, sera mise en place dans les
 prochains jours.
 
@@ -50,7 +51,7 @@ prochains jours.
 J'ai écrit l'outil de vote la semaine dernière. Ces quelques 2300 lignes de code
 constituent aussi la base d'une nouvelle version de la plateforme pour Nous le
 Peuple, qui sera plus facilement extensible par l'équipe de développeurs et
-développeuses bénévoles.[^1] Je l'ai <<libéré>> hier, en publiant le [code
+développeuses bénévoles.[^1] J'ai <<libéré>> l'outil hier, en publiant le [code
 source](https://github.com/m6r/nlp). Il est mis à disposition sous licence
 AGPL : cette licence de logiciel libre autorise n'importe qui à le copier et le
 modifier, à la condition de redistribuer les modifications sous les mêmes
