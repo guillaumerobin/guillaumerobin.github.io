@@ -8,8 +8,8 @@ tag: index
 
 J'ai participé ce weekend à la réunion de l'Assemblée représentative du M6R,
 dont les membres avaient été désignés en mars dernier [(voir le précédent
-article)]({{ page.previous.url }}). La réunion a eu lieu au Palais de la Découverte.
-Antoine Léaument en a déjà fait [sur son
+article)]({{ page.previous.url }}). La réunion a eu lieu au Palais de la
+Découverte, à Paris. Antoine Léaument en a déjà fait [sur son
 blog](http://antoineleaument.fr/2015/06/07/reunion-de-la-premiere-assemblee-
 representative-du-m6r/) un compte rendu détaillé que je trouve intéressant.
 
