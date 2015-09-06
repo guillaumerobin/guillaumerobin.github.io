@@ -16,7 +16,7 @@ layout: default
 
         <article class="post-content text-justify">
           <p>
-            {{ post.excerpt remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | prepend: site.baseurl }}">Lire la suite&nbsp;→</a>
+            {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | prepend: site.baseurl }}">Lire la suite&nbsp;→</a>
           </p>
         </article>
 
